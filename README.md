@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @(Shirish Shrestha)[https://www.facebook.com/lonesomejoker.100]
+- 👋 Hi, I’m @[Shirish Shrestha](https://www.facebook.com/lonesomejoker.100)
 - 👀 I’m interested in Frontend Development and Designing
 - 🌱 I’m currently learning React. 
 - 📫 shakestha@gmail.com
