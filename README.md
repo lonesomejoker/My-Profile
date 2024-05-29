@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @[Shirish Shrestha](https://www.facebook.com/lonesomejoker.100)
 - 👀 I’m interested in Frontend/React/Web Development.
-- 💻 I have good skills in HTML/CSS,ReactJs,TailwindCSS,ReduxJS & AntDesign. 
+- 💻 I have good skills in HTML/CSS, JavaScript,ReactJs,TailwindCSS,ReduxJS,RTK Query & AntDesign. 
 - 📫 shakestha@gmail.com
 
 <!---
