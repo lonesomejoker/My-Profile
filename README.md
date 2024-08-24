@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @[Shirish Shrestha](https://www.facebook.com/lonesomejoker.100)
-- 📕 Currently studying Bsc.CSIT(8thsem)
+- 📕 Bachelor's in Computer Science and Information Technology(Bsc.CSIT)
 - 👨‍🏭 A Frontend/React/Web Developer.
-- 💻 My skillsets: HTML/CSS, JavaScript,ReactJs,TailwindCSS,ReduxJS, RTK Query & AntDesign. 
+- 💻 My skillsets: HTML/CSS, JavaScript,ReactJs,TailwindCSS,ReduxJS,SASS,RTK Query & AntDesign. 
 - 📫 Email: shakestha@gmail.com
 
 <!---
